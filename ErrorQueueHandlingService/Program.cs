@@ -12,7 +12,7 @@ namespace ErrorQueueHandlingService
 		{
 			Console.WriteLine("Welcome to Error Queue Handling Service.");
 			Console.WriteLine("Second change in Error Queue Handling Service.");
-			//Console.WriteLine("Third change in Error Queue Handling Service.");
+			Console.WriteLine("Third change in Error Queue Handling Service.");
 			Console.ReadLine();
 		}
 	}
